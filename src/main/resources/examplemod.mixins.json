@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "turniplabs.examplemod.mixin",
+  "package": "ItsGh0ul.Better_Than_Stairs.mixin",
   "compatibilityLevel": "JAVA_${java}",
   "injectors": {
     "defaultRequire": 1

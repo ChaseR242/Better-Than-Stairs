@@ -1,11 +1,11 @@
 {
 	"schemaVersion": 1,
-	"id": "examplemod",
+	"id": "betterthanstairs",
 	"version": "${version}",
-	"name": "Example Mod",
-	"description": "This mod aims to help new BTA modders.",
+	"name": "Better Than Stairs",
+	"description": "This mod aims to implement corner stair logic and modeling.",
 	"authors": [
-		"Turnip Labs"
+		"ItsGh0ul"
 	],
 	"contact": {
 		"homepage": "",
@@ -16,16 +16,16 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"turniplabs.examplemod.ExampleMod"
+			"ItsGh0ul.Better_Than_Stairs.BetterThanStairs"
 		],
 		"beforeGameStart": [
-			"turniplabs.examplemod.ExampleMod"
+			"ItsGh0ul.Better_Than_Stairs.BetterThanStairs"
 		],
 		"afterGameStart": [
-			"turniplabs.examplemod.ExampleMod"
+			"ItsGh0ul.Better_Than_Stairs.BetterThanStairs"
 		],
 		"recipesReady": [
-			"turniplabs.examplemod.ExampleMod"
+			"ItsGh0ul.Better_Than_Stairs.BetterThanStairs"
 		]
 	},
 	"mixins": [
