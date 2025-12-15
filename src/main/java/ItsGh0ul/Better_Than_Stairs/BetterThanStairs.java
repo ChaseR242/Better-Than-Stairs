@@ -12,7 +12,6 @@ public class BetterThanStairs implements ModInitializer, RecipeEntrypoint, GameS
 	@Override
 	public void onInitialize() {
 		LOGGER.info("ExampleMod initialized.");
-		ModBlocks.registerBlocks();
 	}
 
 	@Override
